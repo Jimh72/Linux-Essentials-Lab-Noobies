@@ -1,0 +1,3 @@
+change permission and owner, only can read: chown jihah locked.txt & chmod 400 locked.txt
+-rw-rw-r-- 1 jihah root 0 May 14 01:15 locked.txt
+-r-------- 1 jihah root 1175 May 14 01:21 locked.txt

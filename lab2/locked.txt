@@ -1,0 +1,24 @@
+total 24
+-rw-rw-r-- 1 root  root 220 May 14 01:07 lab_backup.tar.gz
+-r-------- 1 jihah root   0 May 14 01:15 locked.txt
+-rw-rw-r-- 1 root  root 286 May 14 00:50 topic1_os_distro_info.txt
+-rw-rw-r-- 1 root  root 305 May 14 00:59 topic2.txt
+-rw-rw-r-- 1 root  root  67 May 14 01:07 topic3
+-rw-rw-r-- 1 root  root 703 May 14 01:14 topic4_processes.txt
+-rw-rw-r-- 1 root  root 140 May 14 01:19 topic5.txt
+total 28
+-rw-rw-r-- 1 root  root 220 May 14 01:07 lab_backup.tar.gz
+-r-------- 1 jihah root 401 May 14 01:20 locked.txt
+-rw-rw-r-- 1 root  root 286 May 14 00:50 topic1_os_distro_info.txt
+-rw-rw-r-- 1 root  root 305 May 14 00:59 topic2.txt
+-rw-rw-r-- 1 root  root  67 May 14 01:07 topic3
+-rw-rw-r-- 1 root  root 703 May 14 01:14 topic4_processes.txt
+-rw-rw-r-- 1 root  root 140 May 14 01:19 topic5.txt
+total 28
+-rw-rw-r-- 1    0 0 220 May 14 01:07 lab_backup.tar.gz
+-r-------- 1 1000 0 802 May 14 01:20 locked.txt
+-rw-rw-r-- 1    0 0 286 May 14 00:50 topic1_os_distro_info.txt
+-rw-rw-r-- 1    0 0 305 May 14 00:59 topic2.txt
+-rw-rw-r-- 1    0 0  67 May 14 01:07 topic3
+-rw-rw-r-- 1    0 0 703 May 14 01:14 topic4_processes.txt
+-rw-rw-r-- 1    0 0 140 May 14 01:19 topic5.txt

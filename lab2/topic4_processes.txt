@@ -1,0 +1,10 @@
+command:ps aux | head -n 5
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.7  24004 14648 ?        Ss   May13   0:01 /sbin/init
+root           2  0.0  0.0      0     0 ?        S    May13   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        S    May13   0:00 [pool_workqueue_release]
+root           4  0.0  0.0      0     0 ?        I<   May13   0:00 [kworker/R-kvfree_rcu_reclaim]
+command ip route show
+default via 192.168.64.2 dev ens33 proto dhcp src 192.168.64.128 metric 1002 
+172.17.0.0/16 dev docker0 proto kernel scope link src 172.17.0.1 linkdown 
+192.168.64.0/24 dev ens33 proto dhcp scope link src 192.168.64.128 metric 1002 

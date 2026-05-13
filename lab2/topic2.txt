@@ -1,0 +1,7 @@
+Hidden directory .secret_lab created
+total 20
+drwxrwxr-x 3 root root 4096 May 14 00:58 .
+drwx------ 9 root root 4096 May 14 00:52 ..
+drwxrwxr-x 2 root root 4096 May 14 00:58 .secret_lab
+-rw-rw-r-- 1 root root  286 May 14 00:50 topic1_os_distro_info.txt
+-rw-rw-r-- 1 root root   37 May 14 00:58 topic2.txt

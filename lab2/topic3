@@ -1,0 +1,2 @@
+root:x:0:
+compress with command tar -cvzf lab_backup.tar.gz ~/lab1
