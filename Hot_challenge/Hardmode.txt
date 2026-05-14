@@ -1,0 +1,4 @@
+This challenge, find all files in etc that contain nameserver and only error put in text and succcess in Hardmode.txt 
+THIS COMMAND NEED TO BE RUN AS NON-ROOT
+Use command grep nameserver /etc/* 2> error.txt >> Hardmode.txt 
+/etc/resolv.conf:nameserver 192.168.64.2

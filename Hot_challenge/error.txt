@@ -1,0 +1,81 @@
+grep: /etc/alternatives: Is a directory
+grep: /etc/apparmor: Is a directory
+grep: /etc/apparmor.d: Is a directory
+grep: /etc/apt: Is a directory
+grep: /etc/bash_completion.d: Is a directory
+grep: /etc/binfmt.d: Is a directory
+grep: /etc/ca-certificates: Is a directory
+grep: /etc/cni: Is a directory
+grep: /etc/console-setup: Is a directory
+grep: /etc/containerd: Is a directory
+grep: /etc/credstore: Permission denied
+grep: /etc/credstore.encrypted: Permission denied
+grep: /etc/cron.d: Is a directory
+grep: /etc/cron.daily: Is a directory
+grep: /etc/cron.hourly: Is a directory
+grep: /etc/cron.monthly: Is a directory
+grep: /etc/cron.weekly: Is a directory
+grep: /etc/cron.yearly: Is a directory
+grep: /etc/dbus-1: Is a directory
+grep: /etc/default: Is a directory
+grep: /etc/depmod.d: Is a directory
+grep: /etc/dhcp: Is a directory
+grep: /etc/dictionaries-common: Is a directory
+grep: /etc/docker: Is a directory
+grep: /etc/dpkg: Is a directory
+grep: /etc/emacs: Is a directory
+grep: /etc/groff: Is a directory
+grep: /etc/grub.d: Is a directory
+grep: /etc/gshadow: Permission denied
+grep: /etc/gshadow-: Permission denied
+grep: /etc/gss: Is a directory
+grep: /etc/init.d: Is a directory
+grep: /etc/initramfs-tools: Is a directory
+grep: /etc/kernel: Is a directory
+grep: /etc/ldap: Is a directory
+grep: /etc/ld.so.conf.d: Is a directory
+grep: /etc/libnl-3: Is a directory
+grep: /etc/logrotate.d: Is a directory
+grep: /etc/modprobe.d: Is a directory
+grep: /etc/modules-load.d: Is a directory
+grep: /etc/needrestart: Is a directory
+grep: /etc/network: Is a directory
+grep: /etc/nginx: Is a directory
+grep: /etc/opt: Is a directory
+grep: /etc/pam.d: Is a directory
+grep: /etc/perl: Is a directory
+grep: /etc/profile.d: Is a directory
+grep: /etc/python3: Is a directory
+grep: /etc/python3.13: Is a directory
+grep: /etc/rc0.d: Is a directory
+grep: /etc/rc1.d: Is a directory
+grep: /etc/rc2.d: Is a directory
+grep: /etc/rc3.d: Is a directory
+grep: /etc/rc4.d: Is a directory
+grep: /etc/rc5.d: Is a directory
+grep: /etc/rc6.d: Is a directory
+grep: /etc/rcS.d: Is a directory
+grep: /etc/rsyslog.d: Is a directory
+grep: /etc/runit: Is a directory
+grep: /etc/security: Is a directory
+grep: /etc/selinux: Is a directory
+grep: /etc/shadow: Permission denied
+grep: /etc/shadow-: Permission denied
+grep: /etc/skel: Is a directory
+grep: /etc/ssh: Is a directory
+grep: /etc/ssl: Is a directory
+grep: /etc/sudoers: Permission denied
+grep: /etc/sudoers.d: Is a directory
+grep: /etc/supercat: Is a directory
+grep: /etc/sv: Is a directory
+grep: /etc/sysctl.d: Is a directory
+grep: /etc/systemd: Is a directory
+grep: /etc/terminfo: Is a directory
+grep: /etc/tmpfiles.d: Is a directory
+grep: /etc/udev: Is a directory
+grep: /etc/ufw: Is a directory
+grep: /etc/update-motd.d: Is a directory
+grep: /etc/vim: Is a directory
+grep: /etc/vmware-tools: Is a directory
+grep: /etc/X11: Is a directory
+grep: /etc/xdg: Is a directory

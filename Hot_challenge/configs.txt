@@ -1,0 +1,27 @@
+/etc/adduser.conf
+/etc/ca-certificates.conf
+/etc/debconf.conf
+/etc/deluser.conf
+/etc/dhcpcd.conf
+/etc/e2scrub.conf
+/etc/fuse.conf
+/etc/gai.conf
+/etc/host.conf
+/etc/kernel-img.conf
+/etc/ld.so.conf
+/etc/libaudit.conf
+/etc/locale.conf
+/etc/logrotate.conf
+/etc/mke2fs.conf
+/etc/nftables.conf
+/etc/nsswitch.conf
+/etc/pam.conf
+/etc/reportbug.conf
+/etc/resolv.conf
+/etc/sudo.conf
+/etc/sudo_logsrvd.conf
+/etc/ucf.conf
+/etc/updatedb.conf
+/etc/vconsole.conf
+/etc/xattr.conf
+THIS RESULT FROM COMMAND ls -a /etc/*.conf | sort > configs.txt 
