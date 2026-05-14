@@ -1,0 +1,13 @@
+OPERATOR
+
+^ = when use with grep, find line start with ^nameserver/ ^config..
+ex: grep "^nameserver" /etc/resolve/conf
+
+$ = opposite, end of line
+ex: grep "conf$"
+
+? = matches exactly 1 char
+ex: test?.txt -> test1.txt / testA.txt
+
+
+

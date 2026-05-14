@@ -1,0 +1,81 @@
+FLAG
+
+ls:
+-l = long
+-a = all/hidden
+-h = human read
+
+tar:
+cvf = create
+xvf = eXtract
+-z = gzip
+-j = bzip2
+
+grep:
+-i = ignore case
+-v = exclude / invert
+
+
+HIERARCHY MAP
+
+/etc = etConfig
+/home = user files
+/root = root files
+/var = item changed; logs 
+/bin = Basic command, binary files = ls, grep 
+
+
+LICENSE
+
+Permissive (BSD/MIT) = Just do it, dont mind/sue me
+Copyleft (GPL) = you change and share -> share your changes too
+Proprietary = NOPE! Cant see and share the code
+
+
+LINUX FAMILY
+
+Debian
+-Ubuntu,Linux Mint, Kali
+-apt-get / dpkg
+-stability and free software!
+
+Redhat
+-Fedora, Centos, RHEL
+-yum / dnf
+-business minded and server
+
+SUSE
+-openSuse
+-zypper
+-slay in Europe
+
+
+
+PERMISSION
+4=read
+2=write
+1=Execute
+
+
+
+QUOTING
+
+' ' = all text 
+ex: echo '$USER' -> $USER
+
+" " = care of variable
+ex: echo "$USER" -> jihah
+
+
+
+OPERATOR 
+
+& = run at back, put at last command
+ex: tar -cvf backup.tar /etc &
+
+| = take before output feed to next command
+ex: ls /etc | grep "conf"
+  :  file in etc then filtered by conf
+
+&& = AND
+|| = OR 
